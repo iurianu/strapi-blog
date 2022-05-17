@@ -1,14 +1,14 @@
-#Strapi Blog
+# Strapi Blog
 
-##Backend 
+## Backend 
 
 Strapi v4.0.7
 
-##Frontend
+## Frontend
 
 React v17.0.2
 
-##Engines
+## Engines
 
 node v14.17.0
 npm v6.14.13
