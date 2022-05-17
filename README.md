@@ -10,6 +10,6 @@ React v17.0.2
 
 ## Engines
 
-node v14.17.0
-npm v6.14.13
-yarn v1.22.17
+- node v14.17.0
+- npm v6.14.13
+- yarn v1.22.17
